@@ -32,6 +32,8 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
 - **Python**: For data cleaning, transformation, and performing advanced analyses.
 - **Power BI**: For creating interactive dashboards and visualizations.
 
+The screenshots of the project are provided below:
+
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_1.png)
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_2.png)
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_3.png)
