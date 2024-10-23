@@ -27,11 +27,6 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
    - Used Power BI for creating interactive dashboards to represent data visually. This enabled a deeper understanding of trends across sales, customer demographics, product performance, and geographical distribution.
    - A key insight was drawn from analyzing **shipping costs** and **total net revenue** per category, optimizing supply chain operations.
 
-### 🛠 **Tools Used:**
-- **SQL**: For querying and managing the Northwind database.
-- **Python**: For data cleaning, transformation, and performing advanced analyses.
-- **Power BI**: For creating interactive dashboards and visualizations.
-
 The screenshots of the project are provided below:
 
 
