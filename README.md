@@ -23,12 +23,7 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
 ### 4. **Regional and Country-Level Analysis:**
    I examined the company's performance across **21 countries** and **19 regions**. Using SQL queries, I drilled down into each country to measure sales, shipping costs, and profit. Insights from this analysis allowed me to identify opportunities for expanding into regions with high growth potential.
 
-### 5. **Visual Dashboards with Power BI:**
-   - Used Power BI for creating interactive dashboards to represent data visually. This enabled a deeper understanding of trends across sales, customer demographics, product performance, and geographical distribution.
-   - A key insight was drawn from analyzing **shipping costs** and **total net revenue** per category, optimizing supply chain operations.
-
 The screenshots of the project are provided below:
-
 
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_1.png)
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_2.png)
