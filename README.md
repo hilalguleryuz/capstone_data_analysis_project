@@ -1,7 +1,3 @@
-Here’s an updated version of your README description based on the Northwind Capstone project. It reflects the work done using SQL, Python, and Power BI, along with the attached screenshots for clarity.
-
----
-
 # 🚀 Northwind Trade Company: Data Analysis Capstone Project
 
 For this capstone project, I conducted an in-depth analysis of the Northwind Trade Company dataset. The goal was to extract strategic insights that could improve the company’s operational efficiency, customer retention, and profitability. I employed **SQL, Python**, and **Power BI** to query, analyze, and visualize the data.
@@ -17,11 +13,7 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
    
    These metrics helped in summarizing the company's overall performance, giving a top-down view of sales and profitability.
 
-### 2. **Customer and Product Analysis:**
-   - **Number of Customers**: 91
-   - **Revenue per Customer**: $13.9K
-   - **Number of Available Products**: 67
-   
+### 2. **Customer and Product Analysis:**   
    I analyzed customer data to determine the **top 10 customers by order value**, where **Germany** and the **USA** showed the highest number of customers. I also identified the **best-selling products** and visualized the sales distribution across product categories like Beverages, Dairy Products, and Confections.
 
 ### 3. **Category and Product Performance:**
@@ -39,11 +31,6 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
 - **SQL**: For querying and managing the Northwind database.
 - **Python**: For data cleaning, transformation, and performing advanced analyses.
 - **Power BI**: For creating interactive dashboards and visualizations.
-
-## 🖼️ Screenshots:
-1. **Overall Performance**: A snapshot of total orders, gross/net sales, and product availability. (See `SS_1.png`)
-2. **Product-Based Analysis**: Insights into category-level sales, top-selling products, and profit distribution. (See `SS_2.png`)
-3. **Customer and Regional Analysis**: Breakdown of customers by region and top customers by total order value. (See `SS_3.png`)
 
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_1.png)
 ![alt text](https://github.com/hilalguleryuz/capstone_northwind_data_analysis_project/blob/main/Screenshots/SS_2.png)
