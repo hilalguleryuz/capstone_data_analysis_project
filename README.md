@@ -1,4 +1,4 @@
-# 🚀 Northwind Trade Company: Data Analysis Capstone Project
+# 🚀 Northwind Trade Company: Capstone Project
 
 For this capstone project, I conducted an in-depth analysis of the Northwind Trade Company dataset. The goal was to extract strategic insights that could improve the company’s operational efficiency, customer retention, and profitability. I employed **SQL, Python**, and **Power BI** to query, analyze, and visualize the data.
 
