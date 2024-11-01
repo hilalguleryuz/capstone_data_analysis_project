@@ -5,12 +5,7 @@ For this capstone project, I conducted an in-depth analysis of the Northwind Tra
 ### 📊 Project Summary:
 
 ### 1. **Overall KPIs:**
-   I evaluated key performance indicators (KPIs) including:
-   - **Total Orders**: 830
-   - **Gross Sales**: $1.4M
-   - **Net Sales**: $1.3M
-   - **Total Quantity Sold**: 51.3K units
-   
+   I evaluated key performance indicators (KPIs) including Total Orders, Gross Sales, Net Sales, Total Quantity Sold.  
    These metrics helped in summarizing the company's overall performance, giving a top-down view of sales and profitability.
 
 ### 2. **Customer and Product Analysis:**   
